@@ -13,7 +13,7 @@
     "simpile": {
       "command": "node",
       "args": [
-        "/home/hgbaodev/Documents/Hgbaodev/Github/weather-mcp-server/build/index.js"
+        "../mcp-server-simple/build/index.js" // path to build index.js
       ]
     }
   }
