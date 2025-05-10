@@ -27,7 +27,7 @@ When a user interacts with the MCP server, the processing flow is as follows:
 
 <!-- example one -->
 
-- Input: "Hello, my name is John"
+- Input: "Hello, my name is hgbaodev"
 - Selected tool: `hello`
-- Extracted parameter: `name = "John"`
-- Response: "Hello, John!"
+- Extracted parameter: `name = "hgbaodev"`
+- Response: "Hello, hgbaodev!"
