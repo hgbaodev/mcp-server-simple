@@ -1,4 +1,3 @@
-// Example .vscode/mcp.json
 {
   // 💡 Inputs will be prompted on first server start,
   //    then stored securely by VS Code.
@@ -11,7 +10,7 @@
     }
   ],
   "servers": {
-    "weather": {
+    "simpile": {
       "command": "node",
       "args": [
         "/home/hgbaodev/Documents/Hgbaodev/Github/weather-mcp-server/build/index.js"
