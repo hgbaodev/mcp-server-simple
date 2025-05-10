@@ -1,4 +1,4 @@
-# Build MVP with hgbaodev
+# Build MCP with hgbaodev
 
 A simple Model Context Protocol server built with Node.js
 
